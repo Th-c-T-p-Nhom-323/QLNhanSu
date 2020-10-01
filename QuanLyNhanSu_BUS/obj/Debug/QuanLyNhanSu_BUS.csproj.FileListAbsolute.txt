@@ -1,0 +1,29 @@
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.csprojResolveAssemblyReference.cache
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.csproj.CopyComplete
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.csprojAssemblyReference.cache
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.csproj.CopyComplete
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_BUS\obj\Debug\QuanLyNhanSu_BUS.pdb

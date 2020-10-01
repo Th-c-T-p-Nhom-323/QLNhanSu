@@ -1,0 +1,23 @@
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.csprojResolveAssemblyReference.cache
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.csproj.CopyComplete
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.csprojAssemblyReference.cache
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.csproj.CopyComplete
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_DAL\obj\Debug\QuanLyNhanSu_DAL.pdb

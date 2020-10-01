@@ -1,0 +1,15 @@
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_Entity\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_Entity\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_Entity\obj\Debug\QuanLyNhanSu_Entity.csprojResolveAssemblyReference.cache
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_Entity\obj\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu_Entity\obj\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_Entity\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_Entity\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_Entity\obj\Debug\QuanLyNhanSu_Entity.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_Entity\obj\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_Entity\obj\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_Entity\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_Entity\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_Entity\obj\Debug\QuanLyNhanSu_Entity.csprojAssemblyReference.cache
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_Entity\obj\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu_Entity\obj\Debug\QuanLyNhanSu_Entity.pdb

@@ -1,0 +1,80 @@
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojResolveAssemblyReference.cache
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmhuongdan.resources
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLuong.resources
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanVien.resources
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmphongBan.resources
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTDHV.resources
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTGCTxCV.resources
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTTPhongBan.resources
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.Cache
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Dapper.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Dapper.xml
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\CAO NHAT\Downloads\thuctap\QLNSmain\QuanLyNhanSu_Main-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmDoiMK.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Dapper.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Dapper.xml
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmDoiMK.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmhuongdan.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLuong.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanVien.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmphongBan.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTDHV.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTGCTxCV.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTTPhongBan.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\PC\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe.config
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.exe
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Dapper.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_BUS.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_DAL.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_Entity.dll
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_BUS.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_DAL.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\QuanLyNhanSu_Entity.pdb
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\bin\Debug\Dapper.xml
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csprojAssemblyReference.cache
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmDangNhap.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.FrmDoiMK.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmhuongdan.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmLuong.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmNhanVien.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmphongBan.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTDHV.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTGCTxCV.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmMain.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.frmTTPhongBan.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.Properties.Resources.resources
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.csproj.CopyComplete
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.exe
+C:\Users\apple\Desktop\ThucTapNhom\QuanLyNhanSu-master\QuanLyNhanSu\QuanLyNhanSu\obj\Debug\QuanLyNhanSu.pdb
