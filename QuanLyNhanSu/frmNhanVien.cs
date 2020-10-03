@@ -132,10 +132,12 @@ namespace QuanLyNhanSu
         {
             
         }
-        //Chưa làm
+        
         private void btnSua_Click(object sender, EventArgs e)
         {
-            
+               fluu = 1;
+               DisEnl(true);
+               txtMaNV.Enabled = false;
         }
 
         private void btnLamMoi_Click(object sender, EventArgs e)
