@@ -122,12 +122,26 @@ namespace QuanLyNhanSu
             ShowChucVu();
         }
 
-        //Chưa làm
+        
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            
+            if (MessageBox.Show("Bạn có chắc chắn muốn xóa không?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                try
+                {
+                    Bus.DeleteData(txtMaNV.Text);
+                    MessageBox.Show("Xóa thành công!");
+                    clearData();
+                    DisEnl(false);
+                    HienThi();
+                }
+                catch (Exception ex)
+                {
+                    MessageBox.Show("Lỗi" + ex.Message);
+                }
+            }
         }
-        //Chưa làm
+        
         private void btnThem_Click(object sender, EventArgs e)
         {
                fluu = 0;
