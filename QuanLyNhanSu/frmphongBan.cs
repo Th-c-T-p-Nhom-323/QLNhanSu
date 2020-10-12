@@ -103,37 +103,116 @@ namespace QuanLyNhanSu
 
         private void btnThem_Click(object sender, EventArgs e)
         {
-           
+            fluu = 0;
+            txtMaPB.Text = Bus.TangMa();
+            DisEnl(true);
+            txtMaPB.Enabled = false;
         }
 
         private void btnLuu_Click(object sender, EventArgs e)
         {
-           
+            obj.MaPB = txtMaPB.Text;
+            obj.TenPB = txtTenPB.Text;
+            obj.MaTP = cmbMaTP.Text;
+            obj.DiaChi = txtDiaChi.Text;
+            obj.Sdt = txtSdt.Text;
+            if(fluu == 0)
+            {
+                try
+                {
+                    Bus.InsertData(obj);
+                    MessageBox.Show("Thêm thành công!", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    HienThi();
+                    clearData();
+                    DisEnl(false);
+                    fluu = 1;
+                }
+                catch
+                {
+
+                }
+            }
+            else
+            {
+                try
+                {
+                    Bus.UpdateData(obj);
+                    MessageBox.Show("Sửa Thành Công ! ", "Thông Báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    HienThi();
+                    clearData();
+                    DisEnl(false);
+                }
+                catch
+                {
+
+                }
+            }
         }
 
         private void btnHuy_Click(object sender, EventArgs e)
         {
-            
+            DialogResult dr = MessageBox.Show("Bạn chắc chắn muốn hủy thao tác đang làm?", "Xác nhận hủy", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dr == DialogResult.Yes)
+            {
+                HienThi();
+                DisEnl(false);
+                fluu = 1;
+            }
+            else
+                return;
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-           
+            DialogResult dr = MessageBox.Show("Bạn chắc chắn muốn thoát không?", "Xác nhận hủy", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dr == DialogResult.Yes)
+            {
+                frmMain m = new frmMain();
+                m.Show();
+                this.Close();
+            }
+            else
+                HienThi();
         }
 
         private void btnLamMoi_Click(object sender, EventArgs e)
         {
-            
+            txtTimKiem.Text = "";
+            cmbTimKiem.Text = "";
         }
 
         private void btnTimKiem_Click(object sender, EventArgs e)
         {
-            
+            if (cmbTimKiem.Text == "Mã Phòng Ban")
+            {
+                dgvPhongBan.DataSource = Bus.TimKiemPB("SELECT * FROM dbo.PhongBan WHERE MaPB LIKE'%" + txtTimKiem.Text.Trim() + "%'");
+            }
+            if (cmbTimKiem.Text == "Tên Phòng Ban")
+            {
+                dgvPhongBan.DataSource = Bus.TimKiemPB("SELECT * FROM dbo.PhongBan WHERE TenPB LIKE N'%" + txtTimKiem.Text.Trim() + "%'");
+            }
+            if (cmbTimKiem.Text == "Mã Trưởng Phòng")
+            {
+                dgvPhongBan.DataSource = Bus.TimKiemPB("SELECT * FROM dbo.PhongBan WHERE MaTP LIKE'%" + txtTimKiem.Text.Trim() + "%'");
+            }
+            if (cmbTimKiem.Text == "Địa Chỉ")
+            {
+                dgvPhongBan.DataSource = Bus.TimKiemPB("SELECT * FROM dbo.PhongBan WHERE DiaChi LIKE N'%" + txtTimKiem.Text.Trim() + "%'");
+            }
+            if (cmbTimKiem.Text == "Số Điện Thoại")
+            {
+                dgvPhongBan.DataSource = Bus.TimKiemPB("SELECT * FROM dbo.PhongBan WHERE Sdt LIKE'%" + txtTimKiem.Text.Trim() + "%'");
+            }
         }
 
         private void btnTTPB_Click(object sender, EventArgs e)
         {
-            
+            if (txtMaPB.Text != null)
+            {
+                Ma = txtMaPB.Text;
+                frmTTPhongBan frmNV = new frmTTPhongBan();
+                frmNV.Show();
+            }
         }
     }
 }
