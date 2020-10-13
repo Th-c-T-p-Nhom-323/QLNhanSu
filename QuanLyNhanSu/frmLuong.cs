@@ -78,7 +78,10 @@ namespace QuanLyNhanSu
 
         private void btnThem_Click(object sender, EventArgs e)
         {
-           
+            fluu = 0;
+            txtBacLuong.Text = Bus.TangMa();
+            DisEnl(true);
+            txtBacLuong.Enabled = false;
         }
 
         private void btnSua_Click(object sender, EventArgs e)
@@ -90,17 +93,60 @@ namespace QuanLyNhanSu
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
+            if (MessageBox.Show("Bạn có chắc chắn muốn xóa không?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                try
+                {
+                    Bus.DeleteData(txtBacLuong.Text);
+                    MessageBox.Show("Xóa thành công!");
+                    clearData();
+                    DisEnl(false);
+                    HienThi();
+                }
+                catch
+                {
 
+                }
+            }
         }
 
         private void btnLuu_Click(object sender, EventArgs e)
         {
-            
+            obj.BacLuong = txtBacLuong.Text;
+            obj.LuongCoBan = txtLuongCoBan.Text;
+            obj.HeSoLuong = txtHeSoLuong.Text;
+            obj.HeSoPhuCap = txtHeSoPhuCap.Text;
+
+            if (fluu == 0)
+            {
+                Bus.InsertData(obj);
+                MessageBox.Show("Thêm thành công!");
+                HienThi();
+                clearData();
+                DisEnl(false);
+                fluu = 1;
+            }
+            else
+            {
+                Bus.UpdateData(obj);
+                MessageBox.Show("Sửa Thành Công ! ");
+                HienThi();
+                clearData();
+                DisEnl(false);
+            }
         }
 
         private void btnHuy_Click(object sender, EventArgs e)
         {
-            
+            DialogResult dr = MessageBox.Show("Bạn chắc chắn muốn hủy thao tác đang làm?", "Xác nhận hủy", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dr == DialogResult.Yes)
+            {
+                HienThi();
+                DisEnl(false);
+                fluu = 1;
+            }
+            else
+                return;
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
