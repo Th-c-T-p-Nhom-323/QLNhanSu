@@ -199,25 +199,85 @@ namespace QuanLyNhanSu
 
         private void btnXoa_Click(object sender, EventArgs e)
         {
-            
+            if (MessageBox.Show("Bạn có chắc chắn muốn xóa không?", "Thông báo", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                try
+                {
+                    bus1.DeleteData(txtMaChucVu.Text);
+                    MessageBox.Show("Xóa Thành Công!");
+                    clearData();
+                    DisEnl(false);
+                    HienThi();
+                }
+                catch
+                {
+
+                }
+            }
         }
 
         private void btnLuu_Click(object sender, EventArgs e)
         {
-           
+            obj1.MaChucVu = txtMaChucVu.Text;
+            obj1.TenChucVu = txtTenChucVu.Text;
+            if (fluu == 0)
+            {
+                bus1.InsertData(obj1);
+                MessageBox.Show("Thêm Mới Thành Công!");
+                HienThi();
+                clearData();
+                DisEnl(false);
+            }
+            else
+            {
+                bus1.UpdateData(obj1);
+                MessageBox.Show("Sửa Thành Công ! ");
+                HienThi();
+                clearData();
+                DisEnl(false);
+            }
         }
 
         private void btnHuy_Click(object sender, EventArgs e)
         {
-            
+            DialogResult dr = MessageBox.Show("Bạn có chắc chắn muốn hủy thao tác đang làm không?", "Xác Nhận Hủy", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dr == DialogResult.Yes)
+            {
+                HienThi();
+                DisEnl(false);
+            }
+            else
+            {
+                return;
+            }
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-            
+            DialogResult dr = MessageBox.Show("Bạn có chắc chắn muốn thoát không?", "Xác Nhận Thoát", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+            if (dr == DialogResult.Yes)
+            {
+                frmMain m = new frmMain();
+                m.Show();
+                this.Close();
+
+            }
+            else
+            {
+                HienThi();
+            }
         }
         private void dgvChucVu_Click(object sender, EventArgs e)
         {
+            if (fluu == 0)
+            {               
+                txtTenChucVu.Text = Convert.ToString(dgvChucVu.CurrentRow.Cells["TenCV"].Value);
+            }
+            else
+            {
+                txtMaChucVu.Text = Convert.ToString(dgvChucVu.CurrentRow.Cells["MaCV1"].Value);
+                txtTenChucVu.Text = Convert.ToString(dgvChucVu.CurrentRow.Cells["TenCV"].Value);
+            }
         }
 
         private void dgvChucVu_RowPrePaint(object sender, DataGridViewRowPrePaintEventArgs e)
@@ -227,7 +287,22 @@ namespace QuanLyNhanSu
 
         private void btnTimKiem_Click(object sender, EventArgs e)
         {
-            
+            if (cmbTimKiem.Text == "Theo Mã NV")
+            {
+                dgvTGCT.DataSource = bus.TimKiemTGCT("SELECT dbo.ThoiGianCongTac.MaNV,HoTen,TenChucVu,NgayNhanChuc FROM dbo.ThoiGianCongTac,dbo.ChucVu,dbo.NhanVien WHERE MaChucVu = MaCV AND NhanVien.MaNV = ThoiGianCongTac.MaNV and ThoiGianCongTac.MaNV LIKE '%" + txtTimKiem.Text.Trim() + "%'");
+            }
+            if (cmbTimKiem.Text == "Theo Tên NV")
+            {
+                dgvTGCT.DataSource = bus.TimKiemTGCT(" SELECT dbo.ThoiGianCongTac.MaNV,HoTen,TenChucVu,NgayNhanChuc FROM dbo.ThoiGianCongTac,dbo.ChucVu,dbo.NhanVien WHERE MaChucVu = MaCV AND NhanVien.MaNV = ThoiGianCongTac.MaNV and HoTen LIKE N'%" + txtTimKiem.Text.Trim() + "%'");
+            }
+            if (cmbTimKiem.Text == "Theo Chức Vụ ")
+            {
+                dgvTGCT.DataSource = bus.TimKiemTGCT("SELECT dbo.ThoiGianCongTac.MaNV,HoTen,TenChucVu,NgayNhanChuc FROM dbo.ThoiGianCongTac,dbo.ChucVu,dbo.NhanVien WHERE MaChucVu = MaCV AND NhanVien.MaNV = ThoiGianCongTac.MaNV and TenChucVu LIKE N'%" + txtTimKiem.Text.Trim() + "%'");
+            }
+            if (cmbTimKiem.Text == "Theo Ngày Nhận Chức")
+            {
+                dgvTGCT.DataSource = bus.TimKiemTGCT("SELECT dbo.ThoiGianCongTac.MaNV,HoTen,TenChucVu,NgayNhanChuc FROM dbo.ThoiGianCongTac,dbo.ChucVu,dbo.NhanVien WHERE MaChucVu = MaCV AND NhanVien.MaNV = ThoiGianCongTac.MaNV and NgayNhanChuc LIKE '%" + txtTimKiem.Text.Trim() + "%'");
+            }
         }
 
         private void btnLamMoi_Click(object sender, EventArgs e)
